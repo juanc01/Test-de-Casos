@@ -1,0 +1,87 @@
+div	{
+	
+	
+}
+
+#contenedor{
+	
+	height: 750px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#navegacion{
+	height: 80px;
+	background: #343a40;
+	margin-bottom: 30px;
+}
+#contenedorinfo{
+	height: 600px;
+}
+#lateral{
+	float: left;
+	width: 15%;
+	height: 600px;
+	display: inline-block;
+}
+#opcion1{
+	height: 7%;
+
+}
+#opcion2{
+	height: 7%;
+	
+}
+#opcion3{
+	height: 7%;
+	
+}
+#opcion{
+	height: 4%;
+}
+#formulario{
+	
+	width: 30%;
+	display: inline-block;
+	height: 600px;
+	float: left;
+	
+}
+#tabla{
+	
+
+	width: 65%;
+	display: inline-block;
+	height: 600px;
+	float: right;
+
+
+}
+#espacio{
+	height: 2%;
+}
+#pie{
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+
+}
+table td{
+	text-align: center;
+	font-family: Homero Simpson UI;
+
+}
+
+.boton_persona{
+color: #fff;
+ background: #D5DBDB;
+border: white;
+font-family: Homero simpson UI;	
+		}
+.boton_persona:hover{
+color: #707B7C;
+
+height: 25px;
+
+	}
